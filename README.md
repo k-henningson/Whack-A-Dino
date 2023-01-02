@@ -1,6 +1,6 @@
 # Whack-A-Dino
 
-Simple Javascript, HTML, & CSS project. Developed for my two nieces to play. Also my first go at deploying a web app!
+Simple Javascript, HTML, & CSS project. Developed for my two nieces to play. Also my first go at deploying a web app! [Play](https://whack-a-dino.netlify.app/) a few times and try to beat my top score of 9 🦕!
 <br></br>
 
 ## Final Product
