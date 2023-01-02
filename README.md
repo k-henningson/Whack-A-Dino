@@ -6,9 +6,8 @@ Simple Javascript, HTML, & CSS project. Developed for my two nieces to play. Als
 ## Final Product
 
 <table>
-  <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+  <tr>  
+    <td><img src="https://github.com/k-henningson/Whack-A-Dino/blob/main/docs/InPlay.png?raw=true"></td>
+    <td><img src="https://github.com/k-henningson/Whack-A-Dino/blob/main/docs/Start.png?raw=true"></td>
   </tr>
 </table>

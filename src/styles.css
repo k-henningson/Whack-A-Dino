@@ -62,7 +62,7 @@ h2:hover {
 
 .hole:after {
   display: block;
-  background: url('/docs/dirt.svg') bottom center no-repeat;
+  background: url('https://raw.githubusercontent.com/k-henningson/Whack-A-Dino/3aa43c0f10dc48c9fe78e79f537aa0c036870a54/docs/dirt.svg') bottom center no-repeat;
   background-size: contain;
   content: '';
   width: 100%;
@@ -73,7 +73,7 @@ h2:hover {
 }
 
 .dino {
-  background: url('/docs/scarydino.svg') bottom center no-repeat;
+  background: url('https://raw.githubusercontent.com/k-henningson/Whack-A-Dino/3aa43c0f10dc48c9fe78e79f537aa0c036870a54/docs/scarydino.svg') bottom center no-repeat;
   background-size: 60%;
   position: absolute;
   top: 100%;
