@@ -62,7 +62,7 @@ h2:hover {
 
 .hole:after {
   display: block;
-  background: url(dirt.svg) bottom center no-repeat;
+  background: url('/docs/dirt.svg') bottom center no-repeat;
   background-size: contain;
   content: '';
   width: 100%;
@@ -73,7 +73,7 @@ h2:hover {
 }
 
 .dino {
-  background: url('scarydino.svg') bottom center no-repeat;
+  background: url('/docs/scarydino.svg') bottom center no-repeat;
   background-size: 60%;
   position: absolute;
   top: 100%;
